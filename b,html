@@ -1,0 +1,129 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Minecraft Guides</title>
+<link rel="stylesheet" href="b.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+<section class="hero">
+<div class="hero-content">
+<h1>Minecraft Guides</h1>
+<a href="#main"><button class="start-button">Start</button></a>
+</div>
+</section>
+
+
+<main id="main">
+
+<section class="guide-section">
+<h2>🪓 Survival Guide</h2>
+<img src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/c/c0/2011-08-26_14.25.33.png" alt="Survival" />
+<p>
+
+
+
+Surviving in Minecraft is the first and most important skill every player must master. When you spawn into a new world, you start with nothing—no tools, no food, no shelter. The first thing you should do is punch a tree to gather wood. Use this wood to craft basic tools like a wooden pickaxe, axe, and a crafting table. From there, quickly gather enough stone to upgrade your tools to stone tier.
+
+
+
+Before night falls, build a simple shelter. Even a dirt or wooden box will keep you safe from hostile mobs like zombies, skeletons, spiders, and creepers, which appear when it’s dark. Place torches inside to light it up. To make torches, mine coal or smelt wood into charcoal in a furnace. Don’t forget to craft a bed using wool from sheep, so you can skip the night.
+
+
+
+Food is another top priority. Hunt animals such as cows, pigs, and chickens, or gather apples from trees. Craft a hoe and start farming wheat, carrots, or potatoes. Cook your food for better hunger restoration.
+
+
+
+Once you’re safe and fed, explore caves to find valuable resources like iron, coal, and even diamonds. Bring enough torches, food, and a sword. Watch out for lava and mobs in the dark. If you mine iron, smelt it into ingots and craft better gear. An iron sword and armor will protect you much more effectively.
+
+
+
+Survival is about preparation, awareness, and smart decisions. Stay alert, watch your health and hunger bars, and never dig straight down. Over time, you’ll be able to build advanced farms, explore dangerous biomes, and even fight bosses. But it all starts with surviving your first night.
+
+
+</p>
+</section>
+
+<section class="guide-section">
+<h2>👾 Mob Guide</h2>
+<img src="https://minecraft.wiki/images/thumb/All_Mobs.png/300px-All_Mobs.png?5e2be" alt="Mobs" />
+<p>
+
+
+
+Mobs are living creatures in Minecraft. They can be friendly, neutral, or hostile. Understanding mobs is key to surviving, fighting, and farming in the game.
+
+
+
+Passive mobs like cows, pigs, chickens, sheep, and horses spawn during the day in certain biomes. They won’t hurt you and can be farmed for resources like meat, leather, eggs, and wool. Use wheat, carrots, or seeds to breed them and create your own animal farms.
+
+
+
+Neutral mobs won’t attack unless provoked. These include wolves (which you can tame with bones), endermen (don’t look them in the eyes!), and iron golems (protectors of villages). Bees are neutral too—they help pollinate crops but will sting if attacked.
+
+
+
+Hostile mobs are the most dangerous. Zombies, skeletons, spiders, and creepers spawn at night or in dark areas like caves. Use swords, shields, and armor to fight them. Always light up your base and caves with torches to keep them away. Creepers explode when close—try to hit them fast or use a bow.
+
+
+
+Some mobs drop valuable items: skeletons give bones and arrows, zombies drop rotten flesh, and spiders give string. Endermen drop ender pearls—useful for traveling to The End. More advanced mobs include witches (who throw potions), blazes (in the Nether), and guardians (in ocean temples).
+
+
+
+Boss mobs like the Ender Dragon and the Wither require preparation and good gear. They are tough battles but offer big rewards.
+
+
+
+Knowing how mobs behave helps you build farms, stay safe, and collect rare items. Learn their strengths, weaknesses, and spawn conditions—and soon, you’ll be the one hunting them.
+</p>
+</section>
+
+<section class="guide-section">
+<h2>🏰 Building Guide</h2>
+<img src="data:image/jpeg;base64,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
+" alt="Building" />
+<p>
+
+
+
+Building in Minecraft is where creativity comes to life. Whether you’re making a small wooden cottage or a giant medieval castle, building is one of the most fun and rewarding parts of the game. At first, you may build just for survival—a basic house made of dirt or wood. But as you gather more resources, you can make your builds bigger, more detailed, and more impressive.
+
+
+
+Start by choosing a location: near a forest, on a mountain, by a lake, or anywhere that inspires you. Think about what kind of build you want. Planning helps—sketch it out or lay a rough foundation with blocks. Use different materials to create contrast: cobblestone for walls, wood for floors, glass for windows. Don’t forget to decorate with lanterns, carpets, bookshelves, and flowers.
+
+
+
+Symmetry, color, and detail make builds look better. Add depth to your walls using stairs and slabs, and build roofs that aren’t just flat blocks. Pathways, fences, and gardens also bring your base to life. You can even create secret rooms, underground bunkers, or tall towers for a cool look.
+
+
+
+If you’re building redstone machines, plan the space for wiring. If it’s a village or base, make separate rooms for storage, sleeping, farming, and crafting.
+
+
+
+Experiment with building styles: medieval, modern, fantasy, or Japanese. You can even recreate real-world landmarks or design your dream house. Don’t worry if it doesn’t look perfect at first—building is a skill that improves with practice.
+
+
+
+Explore YouTube and Pinterest for inspiration, download building blueprints, or even practice in Creative mode before recreating it in Survival. Minecraft gives you infinite blocks to express yourself—so be bold, be creative, and build your world, your way.
+
+
+</p>
+</section>
+
+</main>
+
+<footer>
+<p>&copy; 2025 Minecraft Guides by Vika</p>
+</footer>
+
+</body>
+</html>
